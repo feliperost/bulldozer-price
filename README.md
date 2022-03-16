@@ -1,6 +1,6 @@
 # bulldozer-price
 
-Projeto que contempla um problema de regressão.
+Projeto que contempla várias etapas de um problema de regressão.
 
 O projeto utiliza conceitos de ciência de dados e machine learning para tentar prever o preço de uma escavadora, com base em uma base de dados de outras máquinas similares.
 
